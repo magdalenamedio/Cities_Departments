@@ -1,0 +1,7880 @@
+{
+    "cities": [
+        {
+            "id": 2,
+            "department_id": 1,
+            "city": "ABEJORRAL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 786,
+            "department_id": 18,
+            "city": "ABREGO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 3,
+            "department_id": 1,
+            "city": "ABRIAQUI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 694,
+            "department_id": 16,
+            "city": "ACACIAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 591,
+            "department_id": 12,
+            "city": "ACANDI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 617,
+            "department_id": 13,
+            "city": "ACEVEDO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 171,
+            "department_id": 4,
+            "city": "ACHI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 618,
+            "department_id": 13,
+            "city": "AGRADO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 474,
+            "department_id": 11,
+            "city": "AGUA DE DIOS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 422,
+            "department_id": 9,
+            "city": "AGUACHICA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 852,
+            "department_id": 21,
+            "city": "AGUADA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 339,
+            "department_id": 6,
+            "city": "AGUADAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1059,
+            "department_id": 26,
+            "city": "AGUAZUL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 423,
+            "department_id": 9,
+            "city": "AGUSTIN CODAZZI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 619,
+            "department_id": 13,
+            "city": "AIPE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 475,
+            "department_id": 11,
+            "city": "ALBAN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 723,
+            "department_id": 17,
+            "city": "ALBAN (SAN JOSE)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 366,
+            "department_id": 7,
+            "city": "ALBANIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 853,
+            "department_id": 21,
+            "city": "ALBANIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1010,
+            "department_id": 24,
+            "city": "ALCALA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 724,
+            "department_id": 17,
+            "city": "ALDANA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 4,
+            "department_id": 1,
+            "city": "ALEJANDRIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 668,
+            "department_id": 15,
+            "city": "ALGARROBO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 620,
+            "department_id": 13,
+            "city": "ALGECIRAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 382,
+            "department_id": 8,
+            "city": "ALMAGUER",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 216,
+            "department_id": 5,
+            "city": "ALMEIDA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 963,
+            "department_id": 23,
+            "city": "ALPUJARRA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 621,
+            "department_id": 13,
+            "city": "ALTAMIRA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 592,
+            "department_id": 12,
+            "city": "ALTO BAUDO (PIE DE PATO)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 172,
+            "department_id": 4,
+            "city": "ALTOS DEL ROSARIO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 964,
+            "department_id": 23,
+            "city": "ALVARADO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 5,
+            "department_id": 1,
+            "city": "AMAGA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 6,
+            "department_id": 1,
+            "city": "AMALFI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 965,
+            "department_id": 23,
+            "city": "AMBALEMA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 476,
+            "department_id": 11,
+            "city": "ANAPOIMA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 725,
+            "department_id": 17,
+            "city": "ANCUYA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1011,
+            "department_id": 24,
+            "city": "ANDALUCIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 7,
+            "department_id": 1,
+            "city": "ANDES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 8,
+            "department_id": 1,
+            "city": "ANGELOPOLIS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 9,
+            "department_id": 1,
+            "city": "ANGOSTURA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 477,
+            "department_id": 11,
+            "city": "ANOLAIMA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 10,
+            "department_id": 1,
+            "city": "ANORI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 340,
+            "department_id": 6,
+            "city": "ANSERMA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1012,
+            "department_id": 24,
+            "city": "ANSERMANUEVO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 11,
+            "department_id": 1,
+            "city": "ANTIOQUIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 12,
+            "department_id": 1,
+            "city": "ANZA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 966,
+            "department_id": 23,
+            "city": "ANZOATEGUI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 13,
+            "department_id": 1,
+            "city": "APARTADO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 838,
+            "department_id": 20,
+            "city": "APIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 548,
+            "department_id": 11,
+            "city": "APULO (RAFAEL REYES)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 217,
+            "department_id": 5,
+            "city": "AQUITANIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 669,
+            "department_id": 15,
+            "city": "ARACATACA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 341,
+            "department_id": 6,
+            "city": "ARANZAZU",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 854,
+            "department_id": 21,
+            "city": "ARATOCA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1051,
+            "department_id": 25,
+            "city": "ARAUCA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1052,
+            "department_id": 25,
+            "city": "ARAUQUITA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 478,
+            "department_id": 11,
+            "city": "ARBELAEZ",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 726,
+            "department_id": 17,
+            "city": "ARBOLEDA (BERRUECOS)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 787,
+            "department_id": 18,
+            "city": "ARBOLEDAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 14,
+            "department_id": 1,
+            "city": "ARBOLETES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 218,
+            "department_id": 5,
+            "city": "ARCABUCO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 173,
+            "department_id": 4,
+            "city": "ARENAL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 15,
+            "department_id": 1,
+            "city": "ARGELIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1013,
+            "department_id": 24,
+            "city": "ARGELIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 383,
+            "department_id": 8,
+            "city": "ARGELIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 670,
+            "department_id": 15,
+            "city": "ARIGUANI (EL DIFICIL)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 174,
+            "department_id": 4,
+            "city": "ARJONA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 16,
+            "department_id": 1,
+            "city": "ARMENIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 825,
+            "department_id": 19,
+            "city": "ARMENIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 967,
+            "department_id": 23,
+            "city": "ARMERO (GUAYABAL)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 175,
+            "department_id": 4,
+            "city": "ARROYOHONDO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 424,
+            "department_id": 9,
+            "city": "ASTREA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 968,
+            "department_id": 23,
+            "city": "ATACO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 593,
+            "department_id": 12,
+            "city": "ATRATO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 447,
+            "department_id": 10,
+            "city": "AYAPEL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 594,
+            "department_id": 12,
+            "city": "BAGADO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 595,
+            "department_id": 12,
+            "city": "BAHIA SOLANO (MUTIS)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 596,
+            "department_id": 12,
+            "city": "BAJO BAUDO (PIZARRO)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 839,
+            "department_id": 20,
+            "city": "BALBOA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 384,
+            "department_id": 8,
+            "city": "BALBOA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 127,
+            "department_id": 2,
+            "city": "BARANOA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 622,
+            "department_id": 13,
+            "city": "BARAYA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 727,
+            "department_id": 17,
+            "city": "BARBACOAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 17,
+            "department_id": 1,
+            "city": "BARBOSA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 855,
+            "department_id": 21,
+            "city": "BARBOSA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 856,
+            "department_id": 21,
+            "city": "BARICHARA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 695,
+            "department_id": 16,
+            "city": "BARRANCA DE UPIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 857,
+            "department_id": 21,
+            "city": "BARRANCABERMEJA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 654,
+            "department_id": 14,
+            "city": "BARRANCAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 176,
+            "department_id": 4,
+            "city": "BARRANCO DE LOBA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1104,
+            "department_id": 30,
+            "city": "BARRANCO MINAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 126,
+            "department_id": 2,
+            "city": "BARRANQUILLA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 425,
+            "department_id": 9,
+            "city": "BECERRIL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 342,
+            "department_id": 6,
+            "city": "BELALCAZAR",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 219,
+            "department_id": 5,
+            "city": "BELEN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 728,
+            "department_id": 17,
+            "city": "BELEN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 367,
+            "department_id": 7,
+            "city": "BELEN DE LOS ANDAQUIES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 840,
+            "department_id": 20,
+            "city": "BELEN DE UMBRIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 19,
+            "department_id": 1,
+            "city": "BELLO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 18,
+            "department_id": 1,
+            "city": "BELMIRA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 479,
+            "department_id": 11,
+            "city": "BELTRAN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 220,
+            "department_id": 5,
+            "city": "BERBEO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 20,
+            "department_id": 1,
+            "city": "BETANIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 221,
+            "department_id": 5,
+            "city": "BETEITIVA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 21,
+            "department_id": 1,
+            "city": "BETULIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 858,
+            "department_id": 21,
+            "city": "BETULIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 480,
+            "department_id": 11,
+            "city": "BITUIMA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 222,
+            "department_id": 5,
+            "city": "BOAVITA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 788,
+            "department_id": 18,
+            "city": "BOCHALEMA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 149,
+            "department_id": 3,
+            "city": "Bogotá D.C",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 481,
+            "department_id": 11,
+            "city": "BOJACA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 597,
+            "department_id": 12,
+            "city": "BOJAYA (BELLAVISTA)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 385,
+            "department_id": 8,
+            "city": "BOLIVAR",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 859,
+            "department_id": 21,
+            "city": "BOLIVAR",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1014,
+            "department_id": 24,
+            "city": "BOLIVAR",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 22,
+            "department_id": 1,
+            "city": "BOLIVAR",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 426,
+            "department_id": 9,
+            "city": "BOSCONIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 223,
+            "department_id": 5,
+            "city": "BOYACA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 23,
+            "department_id": 1,
+            "city": "BRICEÑO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 224,
+            "department_id": 5,
+            "city": "BRICEÑO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 851,
+            "department_id": 21,
+            "city": "BUCARAMANGA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 789,
+            "department_id": 18,
+            "city": "BUCARASICA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1015,
+            "department_id": 24,
+            "city": "BUENAVENTURA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 225,
+            "department_id": 5,
+            "city": "BUENAVISTA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 448,
+            "department_id": 10,
+            "city": "BUENAVISTA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 826,
+            "department_id": 19,
+            "city": "BUENAVISTA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 939,
+            "department_id": 22,
+            "city": "BUENAVISTA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 386,
+            "department_id": 8,
+            "city": "BUENOS AIRES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 729,
+            "department_id": 17,
+            "city": "BUESACO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1016,
+            "department_id": 24,
+            "city": "BUGA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1017,
+            "department_id": 24,
+            "city": "BUGALAGRANDE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 24,
+            "department_id": 1,
+            "city": "BURITICA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 226,
+            "department_id": 5,
+            "city": "BUSBANZA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 482,
+            "department_id": 11,
+            "city": "CABRERA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 860,
+            "department_id": 21,
+            "city": "CABRERA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 696,
+            "department_id": 16,
+            "city": "CABUYARO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1108,
+            "department_id": 30,
+            "city": "CACAHUAL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 25,
+            "department_id": 1,
+            "city": "CACERES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 483,
+            "department_id": 11,
+            "city": "CACHIPAY",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 791,
+            "department_id": 18,
+            "city": "CACHIRA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 790,
+            "department_id": 18,
+            "city": "CACOTA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 26,
+            "department_id": 1,
+            "city": "CAICEDO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1018,
+            "department_id": 24,
+            "city": "CAICEDONIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 940,
+            "department_id": 22,
+            "city": "CAIMITO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 969,
+            "department_id": 23,
+            "city": "CAJAMARCA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 387,
+            "department_id": 8,
+            "city": "CAJIBIO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 484,
+            "department_id": 11,
+            "city": "CAJICA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 177,
+            "department_id": 4,
+            "city": "CALAMAR",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1112,
+            "department_id": 31,
+            "city": "CALAMAR",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 827,
+            "department_id": 19,
+            "city": "CALARCA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 27,
+            "department_id": 1,
+            "city": "CALDAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 227,
+            "department_id": 5,
+            "city": "CALDAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 388,
+            "department_id": 8,
+            "city": "CALDONO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1009,
+            "department_id": 24,
+            "city": "CALI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 861,
+            "department_id": 21,
+            "city": "CALIFORNIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1019,
+            "department_id": 24,
+            "city": "CALIMA (DARIEN)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 389,
+            "department_id": 8,
+            "city": "CALOTO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 28,
+            "department_id": 1,
+            "city": "CAMPAMENTO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 128,
+            "department_id": 2,
+            "city": "CAMPO DE LA CRUZ",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 623,
+            "department_id": 13,
+            "city": "CAMPOALEGRE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 228,
+            "department_id": 5,
+            "city": "CAMPOHERMOSO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 449,
+            "department_id": 10,
+            "city": "CANALETE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 29,
+            "department_id": 1,
+            "city": "CAÑASGORDAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 129,
+            "department_id": 2,
+            "city": "CANDELARIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1020,
+            "department_id": 24,
+            "city": "CANDELARIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 178,
+            "department_id": 4,
+            "city": "CANTAGALLO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 598,
+            "department_id": 12,
+            "city": "CANTON DE SAN PABLO (MANAGRU)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 485,
+            "department_id": 11,
+            "city": "CAPARRAPI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 862,
+            "department_id": 21,
+            "city": "CAPITANEJO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 486,
+            "department_id": 11,
+            "city": "CAQUEZA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 30,
+            "department_id": 1,
+            "city": "CARACOLI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 31,
+            "department_id": 1,
+            "city": "CARAMANTA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 863,
+            "department_id": 21,
+            "city": "CARCASI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 32,
+            "department_id": 1,
+            "city": "CAREPA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 970,
+            "department_id": 23,
+            "city": "CARMEN APICALA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 487,
+            "department_id": 11,
+            "city": "CARMEN DE CARUPA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 33,
+            "department_id": 1,
+            "city": "CARMEN DE VIBORAL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 34,
+            "department_id": 1,
+            "city": "CAROLINA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 170,
+            "department_id": 4,
+            "city": "CARTAGENA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 368,
+            "department_id": 7,
+            "city": "CARTAGENA DEL CHAIRA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1021,
+            "department_id": 24,
+            "city": "CARTAGO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1116,
+            "department_id": 32,
+            "city": "CARURU",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 971,
+            "department_id": 23,
+            "city": "CASABIANCA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 697,
+            "department_id": 16,
+            "city": "CASTILLA LA NUEVA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 35,
+            "department_id": 1,
+            "city": "CAUCASIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 864,
+            "department_id": 21,
+            "city": "CEPITA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 450,
+            "department_id": 10,
+            "city": "CERETE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 229,
+            "department_id": 5,
+            "city": "CERINZA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 865,
+            "department_id": 21,
+            "city": "CERRITO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 671,
+            "department_id": 15,
+            "city": "CERRO SAN ANTONIO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 737,
+            "department_id": 17,
+            "city": "CHACHAGUI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 488,
+            "department_id": 11,
+            "city": "CHAGUANI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 943,
+            "department_id": 22,
+            "city": "CHALAN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1060,
+            "department_id": 26,
+            "city": "CHAMEZA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 972,
+            "department_id": 23,
+            "city": "CHAPARRAL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 866,
+            "department_id": 21,
+            "city": "CHARALA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 867,
+            "department_id": 21,
+            "city": "CHARTA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 489,
+            "department_id": 11,
+            "city": "CHIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 36,
+            "department_id": 1,
+            "city": "CHIGORODO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 451,
+            "department_id": 10,
+            "city": "CHIMA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 868,
+            "department_id": 21,
+            "city": "CHIMA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 427,
+            "department_id": 9,
+            "city": "CHIMICHAGUA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 792,
+            "department_id": 18,
+            "city": "CHINACOTA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 230,
+            "department_id": 5,
+            "city": "CHINAVITA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 343,
+            "department_id": 6,
+            "city": "CHINCHINA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 452,
+            "department_id": 10,
+            "city": "CHINU",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 490,
+            "department_id": 11,
+            "city": "CHIPAQUE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 869,
+            "department_id": 21,
+            "city": "CHIPATA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 231,
+            "department_id": 5,
+            "city": "CHIQUINQUIRA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 244,
+            "department_id": 5,
+            "city": "CHIQUIZA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 428,
+            "department_id": 9,
+            "city": "CHIRIGUANA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 232,
+            "department_id": 5,
+            "city": "CHISCAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 233,
+            "department_id": 5,
+            "city": "CHITA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 793,
+            "department_id": 18,
+            "city": "CHITAGA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 234,
+            "department_id": 5,
+            "city": "CHITARAQUE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 235,
+            "department_id": 5,
+            "city": "CHIVATA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 672,
+            "department_id": 15,
+            "city": "CHIVOLO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 245,
+            "department_id": 5,
+            "city": "CHIVOR",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 491,
+            "department_id": 11,
+            "city": "CHOACHI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 492,
+            "department_id": 11,
+            "city": "CHOCONTA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 179,
+            "department_id": 4,
+            "city": "CICUCO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 673,
+            "department_id": 15,
+            "city": "CIENAGA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 453,
+            "department_id": 10,
+            "city": "CIENAGA DE ORO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 236,
+            "department_id": 5,
+            "city": "CIENEGA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 870,
+            "department_id": 21,
+            "city": "CIMITARRA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 828,
+            "department_id": 19,
+            "city": "CIRCASIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 37,
+            "department_id": 1,
+            "city": "CISNEROS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 181,
+            "department_id": 4,
+            "city": "CLEMENCIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 38,
+            "department_id": 1,
+            "city": "COCORNA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 973,
+            "department_id": 23,
+            "city": "COELLO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 493,
+            "department_id": 11,
+            "city": "COGUA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 624,
+            "department_id": 13,
+            "city": "COLOMBIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1078,
+            "department_id": 27,
+            "city": "COLON",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 730,
+            "department_id": 17,
+            "city": "COLON (GENOVA)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 941,
+            "department_id": 22,
+            "city": "COLOSO (RICAURTE)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 237,
+            "department_id": 5,
+            "city": "COMBITA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 39,
+            "department_id": 1,
+            "city": "CONCEPCION",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 871,
+            "department_id": 21,
+            "city": "CONCEPCION",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 674,
+            "department_id": 15,
+            "city": "CONCORDIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 40,
+            "department_id": 1,
+            "city": "CONCORDIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 599,
+            "department_id": 12,
+            "city": "CONDOTO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 872,
+            "department_id": 21,
+            "city": "CONFINES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 731,
+            "department_id": 17,
+            "city": "CONSACA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 732,
+            "department_id": 17,
+            "city": "CONTADERO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 873,
+            "department_id": 21,
+            "city": "CONTRATACION",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 794,
+            "department_id": 18,
+            "city": "CONVENCION",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 41,
+            "department_id": 1,
+            "city": "COPACABANA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 238,
+            "department_id": 5,
+            "city": "COPER",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 180,
+            "department_id": 4,
+            "city": "CORDOBA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 733,
+            "department_id": 17,
+            "city": "CORDOBA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 829,
+            "department_id": 19,
+            "city": "CORDOBA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 390,
+            "department_id": 8,
+            "city": "CORINTO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 874,
+            "department_id": 21,
+            "city": "COROMORO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 942,
+            "department_id": 22,
+            "city": "COROZAL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 239,
+            "department_id": 5,
+            "city": "CORRALES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 494,
+            "department_id": 11,
+            "city": "COTA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 454,
+            "department_id": 10,
+            "city": "COTORRA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 240,
+            "department_id": 5,
+            "city": "COVARACHIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 974,
+            "department_id": 23,
+            "city": "COYAIMA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1053,
+            "department_id": 25,
+            "city": "CRAVO NORTE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 734,
+            "department_id": 17,
+            "city": "CUASPUD (CARLOSAMA)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 241,
+            "department_id": 5,
+            "city": "CUBARA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 242,
+            "department_id": 5,
+            "city": "CUCAITA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 495,
+            "department_id": 11,
+            "city": "CUCUNUBA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 785,
+            "department_id": 18,
+            "city": "CUCUTA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 795,
+            "department_id": 18,
+            "city": "CUCUTILLA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 243,
+            "department_id": 5,
+            "city": "CUITIVA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 699,
+            "department_id": 16,
+            "city": "CUMARAL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1126,
+            "department_id": 33,
+            "city": "CUMARIBO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 735,
+            "department_id": 17,
+            "city": "CUMBAL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 736,
+            "department_id": 17,
+            "city": "CUMBITARA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 975,
+            "department_id": 23,
+            "city": "CUNDAY",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 369,
+            "department_id": 7,
+            "city": "CURILLO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 875,
+            "department_id": 21,
+            "city": "CURITI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 429,
+            "department_id": 9,
+            "city": "CURUMANI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 42,
+            "department_id": 1,
+            "city": "DABEIBA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1022,
+            "department_id": 24,
+            "city": "DAGUA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 655,
+            "department_id": 14,
+            "city": "DIBULLA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 656,
+            "department_id": 14,
+            "city": "DISTRACCION",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 976,
+            "department_id": 23,
+            "city": "DOLORES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 43,
+            "department_id": 1,
+            "city": "DON MATIAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 841,
+            "department_id": 20,
+            "city": "DOS QUEBRADAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 246,
+            "department_id": 5,
+            "city": "DUITAMA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 796,
+            "department_id": 18,
+            "city": "DURANIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 44,
+            "department_id": 1,
+            "city": "EBEJICO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1023,
+            "department_id": 24,
+            "city": "EL AGUILA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 45,
+            "department_id": 1,
+            "city": "EL BAGRE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 675,
+            "department_id": 15,
+            "city": "EL BANCO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1024,
+            "department_id": 24,
+            "city": "EL CAIRO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 700,
+            "department_id": 16,
+            "city": "EL CALVARIO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 797,
+            "department_id": 18,
+            "city": "EL CARMEN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 600,
+            "department_id": 12,
+            "city": "EL CARMEN DE ATRATO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 182,
+            "department_id": 4,
+            "city": "EL CARMEN DE BOLIVAR",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 876,
+            "department_id": 21,
+            "city": "EL CARMEN DE CHUCURY",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 701,
+            "department_id": 16,
+            "city": "EL CASTILLO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1025,
+            "department_id": 24,
+            "city": "EL CERRITO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 738,
+            "department_id": 17,
+            "city": "EL CHARCO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 247,
+            "department_id": 5,
+            "city": "EL COCUY",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 496,
+            "department_id": 11,
+            "city": "EL COLEGIO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 430,
+            "department_id": 9,
+            "city": "EL COPEY",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 370,
+            "department_id": 7,
+            "city": "EL DONCELLO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 702,
+            "department_id": 16,
+            "city": "EL DORADO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1026,
+            "department_id": 24,
+            "city": "EL DOVIO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1093,
+            "department_id": 29,
+            "city": "EL ENCANTO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 248,
+            "department_id": 5,
+            "city": "EL ESPINO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 877,
+            "department_id": 21,
+            "city": "EL GUACAMAYO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 183,
+            "department_id": 4,
+            "city": "EL GUAMO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 657,
+            "department_id": 14,
+            "city": "EL MOLINO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 431,
+            "department_id": 9,
+            "city": "EL PASO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 371,
+            "department_id": 7,
+            "city": "EL PAUJIL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 739,
+            "department_id": 17,
+            "city": "EL PEÑOL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 184,
+            "department_id": 4,
+            "city": "EL PEÑON",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 878,
+            "department_id": 21,
+            "city": "EL PEÑON",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 497,
+            "department_id": 11,
+            "city": "EL PEÑON",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 676,
+            "department_id": 15,
+            "city": "EL PIÑON",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 879,
+            "department_id": 21,
+            "city": "EL PLAYON",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 677,
+            "department_id": 15,
+            "city": "EL RETEN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1113,
+            "department_id": 31,
+            "city": "EL RETORNO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 498,
+            "department_id": 11,
+            "city": "EL ROSAL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 740,
+            "department_id": 17,
+            "city": "EL ROSARIO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 741,
+            "department_id": 17,
+            "city": "EL TABLON",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 742,
+            "department_id": 17,
+            "city": "EL TAMBO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 391,
+            "department_id": 8,
+            "city": "EL TAMBO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 798,
+            "department_id": 18,
+            "city": "EL TARRA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 799,
+            "department_id": 18,
+            "city": "EL ZULIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 625,
+            "department_id": 13,
+            "city": "ELIAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 880,
+            "department_id": 21,
+            "city": "ENCINO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 881,
+            "department_id": 21,
+            "city": "ENCISO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 46,
+            "department_id": 1,
+            "city": "ENTRERRIOS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 47,
+            "department_id": 1,
+            "city": "ENVIGADO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 977,
+            "department_id": 23,
+            "city": "ESPINAL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 499,
+            "department_id": 11,
+            "city": "FACATATIVA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 978,
+            "department_id": 23,
+            "city": "FALAN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 344,
+            "department_id": 6,
+            "city": "FILADELFIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 830,
+            "department_id": 19,
+            "city": "FILANDIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 249,
+            "department_id": 5,
+            "city": "FIRAVITOBA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 979,
+            "department_id": 23,
+            "city": "FLANDES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 365,
+            "department_id": 7,
+            "city": "FLORENCIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 392,
+            "department_id": 8,
+            "city": "FLORENCIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 250,
+            "department_id": 5,
+            "city": "FLORESTA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 882,
+            "department_id": 21,
+            "city": "FLORIAN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1027,
+            "department_id": 24,
+            "city": "FLORIDA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 883,
+            "department_id": 21,
+            "city": "FLORIDABLANCA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 500,
+            "department_id": 11,
+            "city": "FOMEQUE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 658,
+            "department_id": 14,
+            "city": "FONSECA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1054,
+            "department_id": 25,
+            "city": "FORTUL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 501,
+            "department_id": 11,
+            "city": "FOSCA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 763,
+            "department_id": 17,
+            "city": "FRANCISCO PIZARRO (SALAHONDA)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 48,
+            "department_id": 1,
+            "city": "FREDONIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 980,
+            "department_id": 23,
+            "city": "FRESNO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 49,
+            "department_id": 1,
+            "city": "FRONTINO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 703,
+            "department_id": 16,
+            "city": "FUENTE DE ORO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 678,
+            "department_id": 15,
+            "city": "FUNDACION",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 743,
+            "department_id": 17,
+            "city": "FUNES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 502,
+            "department_id": 11,
+            "city": "FUNZA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 503,
+            "department_id": 11,
+            "city": "FUQUENE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 504,
+            "department_id": 11,
+            "city": "FUSAGASUGA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 505,
+            "department_id": 11,
+            "city": "GACHALA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 506,
+            "department_id": 11,
+            "city": "GACHANCIPA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 251,
+            "department_id": 5,
+            "city": "GACHANTIVA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 507,
+            "department_id": 11,
+            "city": "GACHETA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 884,
+            "department_id": 21,
+            "city": "GALAN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 130,
+            "department_id": 2,
+            "city": "GALAPA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 944,
+            "department_id": 22,
+            "city": "GALERAS (NUEVA GRANADA)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 508,
+            "department_id": 11,
+            "city": "GAMA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 432,
+            "department_id": 9,
+            "city": "GAMARRA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 885,
+            "department_id": 21,
+            "city": "GAMBITA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 252,
+            "department_id": 5,
+            "city": "GAMEZA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 253,
+            "department_id": 5,
+            "city": "GARAGOA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 626,
+            "department_id": 13,
+            "city": "GARZON",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 831,
+            "department_id": 19,
+            "city": "GENOVA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 627,
+            "department_id": 13,
+            "city": "GIGANTE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1028,
+            "department_id": 24,
+            "city": "GINEBRA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 50,
+            "department_id": 1,
+            "city": "GIRALDO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 509,
+            "department_id": 11,
+            "city": "GIRARDOT",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 51,
+            "department_id": 1,
+            "city": "GIRARDOTA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 886,
+            "department_id": 21,
+            "city": "GIRON",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 52,
+            "department_id": 1,
+            "city": "GOMEZ PLATA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 433,
+            "department_id": 9,
+            "city": "GONZALEZ",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 800,
+            "department_id": 18,
+            "city": "GRAMALOTE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 510,
+            "department_id": 11,
+            "city": "GRANADA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 704,
+            "department_id": 16,
+            "city": "GRANADA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 53,
+            "department_id": 1,
+            "city": "GRANADA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 887,
+            "department_id": 21,
+            "city": "GUACA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 254,
+            "department_id": 5,
+            "city": "GUACAMAYAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1029,
+            "department_id": 24,
+            "city": "GUACARI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 511,
+            "department_id": 11,
+            "city": "GUACHETA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 744,
+            "department_id": 17,
+            "city": "GUACHUCAL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 628,
+            "department_id": 13,
+            "city": "GUADALUPE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 54,
+            "department_id": 1,
+            "city": "GUADALUPE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 888,
+            "department_id": 21,
+            "city": "GUADALUPE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 512,
+            "department_id": 11,
+            "city": "GUADUAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 745,
+            "department_id": 17,
+            "city": "GUAITARILLA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 746,
+            "department_id": 17,
+            "city": "GUALMATAN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 679,
+            "department_id": 15,
+            "city": "GUAMAL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 705,
+            "department_id": 16,
+            "city": "GUAMAL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 981,
+            "department_id": 23,
+            "city": "GUAMO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 393,
+            "department_id": 8,
+            "city": "GUAPI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 889,
+            "department_id": 21,
+            "city": "GUAPOTA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 945,
+            "department_id": 22,
+            "city": "GUARANDA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 55,
+            "department_id": 1,
+            "city": "GUARNE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 513,
+            "department_id": 11,
+            "city": "GUASCA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 56,
+            "department_id": 1,
+            "city": "GUATAPE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 514,
+            "department_id": 11,
+            "city": "GUATAQUI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 515,
+            "department_id": 11,
+            "city": "GUATAVITA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 255,
+            "department_id": 5,
+            "city": "GUATEQUE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 842,
+            "department_id": 20,
+            "city": "GUATICA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 890,
+            "department_id": 21,
+            "city": "GUAVATA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 516,
+            "department_id": 11,
+            "city": "GUAYABAL DE SIQUIMA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 517,
+            "department_id": 11,
+            "city": "GUAYABETAL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 256,
+            "department_id": 5,
+            "city": "GUAYATA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 891,
+            "department_id": 21,
+            "city": "GUEPSA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 257,
+            "department_id": 5,
+            "city": "GUICAN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 518,
+            "department_id": 11,
+            "city": "GUTIERREZ",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 801,
+            "department_id": 18,
+            "city": "HACARI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 185,
+            "department_id": 4,
+            "city": "HATILLO DE LOBA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 892,
+            "department_id": 21,
+            "city": "HATO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1061,
+            "department_id": 26,
+            "city": "HATO COROZAL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 659,
+            "department_id": 14,
+            "city": "HATONUEVO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 57,
+            "department_id": 1,
+            "city": "HELICONIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 802,
+            "department_id": 18,
+            "city": "HERRAN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 982,
+            "department_id": 23,
+            "city": "HERVEO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 58,
+            "department_id": 1,
+            "city": "HISPANIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 629,
+            "department_id": 13,
+            "city": "HOBO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 983,
+            "department_id": 23,
+            "city": "HONDA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 962,
+            "department_id": 23,
+            "city": "IBAGUE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 984,
+            "department_id": 23,
+            "city": "ICONONZO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 747,
+            "department_id": 17,
+            "city": "ILES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 748,
+            "department_id": 17,
+            "city": "IMUES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 394,
+            "department_id": 8,
+            "city": "INZA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 749,
+            "department_id": 17,
+            "city": "IPIALES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 630,
+            "department_id": 13,
+            "city": "IQUIRA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 631,
+            "department_id": 13,
+            "city": "ISNOS (SAN JOSE DE ISNOS)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 602,
+            "department_id": 12,
+            "city": "ISTMINA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 59,
+            "department_id": 1,
+            "city": "ITAGUI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 60,
+            "department_id": 1,
+            "city": "ITUANGO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 258,
+            "department_id": 5,
+            "city": "IZA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 395,
+            "department_id": 8,
+            "city": "JAMBALO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1030,
+            "department_id": 24,
+            "city": "JAMUNDI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 61,
+            "department_id": 1,
+            "city": "JARDIN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 259,
+            "department_id": 5,
+            "city": "JENESANO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 62,
+            "department_id": 1,
+            "city": "JERICO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 260,
+            "department_id": 5,
+            "city": "JERICO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 519,
+            "department_id": 11,
+            "city": "JERUSALEN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 893,
+            "department_id": 21,
+            "city": "JESUS MARIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 894,
+            "department_id": 21,
+            "city": "JORDAN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 131,
+            "department_id": 2,
+            "city": "JUAN DE ACOSTA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 520,
+            "department_id": 11,
+            "city": "JUNIN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 603,
+            "department_id": 12,
+            "city": "JURADO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 455,
+            "department_id": 10,
+            "city": "LA APARTADA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 632,
+            "department_id": 13,
+            "city": "LA ARGENTINA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 895,
+            "department_id": 21,
+            "city": "LA BELLEZA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 521,
+            "department_id": 11,
+            "city": "LA CALERA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 262,
+            "department_id": 5,
+            "city": "LA CAPILLA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 63,
+            "department_id": 1,
+            "city": "LA CEJA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 843,
+            "department_id": 20,
+            "city": "LA CELIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1094,
+            "department_id": 29,
+            "city": "LA CHORRERA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 750,
+            "department_id": 17,
+            "city": "LA CRUZ",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1031,
+            "department_id": 24,
+            "city": "LA CUMBRE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 345,
+            "department_id": 6,
+            "city": "LA DORADA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 804,
+            "department_id": 18,
+            "city": "LA ESPERANZA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 64,
+            "department_id": 1,
+            "city": "LA ESTRELLA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 751,
+            "department_id": 17,
+            "city": "LA FLORIDA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 434,
+            "department_id": 9,
+            "city": "LA GLORIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1107,
+            "department_id": 30,
+            "city": "LA GUADALUPE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1088,
+            "department_id": 27,
+            "city": "LA HORMIGA (VALLE DEL GUAMUEZ)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 660,
+            "department_id": 14,
+            "city": "LA JAGUA DEL PILAR",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 435,
+            "department_id": 9,
+            "city": "LA JAGUA IBIRICO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 752,
+            "department_id": 17,
+            "city": "LA LLANADA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 708,
+            "department_id": 16,
+            "city": "LA MACARENA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 346,
+            "department_id": 6,
+            "city": "LA MERCED",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 522,
+            "department_id": 11,
+            "city": "LA MESA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 372,
+            "department_id": 7,
+            "city": "LA MONTAÑITA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 523,
+            "department_id": 11,
+            "city": "LA PALMA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 897,
+            "department_id": 21,
+            "city": "LA PAZ",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 441,
+            "department_id": 9,
+            "city": "LA PAZ (ROBLES)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1095,
+            "department_id": 29,
+            "city": "LA PEDRERA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 524,
+            "department_id": 11,
+            "city": "LA PEÑA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 65,
+            "department_id": 1,
+            "city": "LA PINTADA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 633,
+            "department_id": 13,
+            "city": "LA PLATA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 805,
+            "department_id": 18,
+            "city": "LA PLAYA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1122,
+            "department_id": 33,
+            "city": "LA PRIMAVERA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1062,
+            "department_id": 26,
+            "city": "LA SALINA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 396,
+            "department_id": 8,
+            "city": "LA SIERRA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 832,
+            "department_id": 19,
+            "city": "LA TEBAIDA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 753,
+            "department_id": 17,
+            "city": "LA TOLA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 754,
+            "department_id": 17,
+            "city": "LA UNION",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 66,
+            "department_id": 1,
+            "city": "LA UNION",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1032,
+            "department_id": 24,
+            "city": "LA UNION",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 946,
+            "department_id": 22,
+            "city": "LA UNION",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 709,
+            "department_id": 16,
+            "city": "LA URIBE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 264,
+            "department_id": 5,
+            "city": "LA UVITA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 525,
+            "department_id": 11,
+            "city": "LA VEGA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 397,
+            "department_id": 8,
+            "city": "LA VEGA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 263,
+            "department_id": 5,
+            "city": "LA VICTORIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1033,
+            "department_id": 24,
+            "city": "LA VICTORIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1096,
+            "department_id": 29,
+            "city": "LA VICTORIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 844,
+            "department_id": 20,
+            "city": "LA VIRGINIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 803,
+            "department_id": 18,
+            "city": "LABATECA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 261,
+            "department_id": 5,
+            "city": "LABRANZAGRANDE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 896,
+            "department_id": 21,
+            "city": "LANDAZURI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 898,
+            "department_id": 21,
+            "city": "LEBRIJA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 755,
+            "department_id": 17,
+            "city": "LEIVA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 710,
+            "department_id": 16,
+            "city": "LEJANIAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 526,
+            "department_id": 11,
+            "city": "LENGUAZAQUE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 985,
+            "department_id": 23,
+            "city": "LERIDA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1092,
+            "department_id": 29,
+            "city": "LETICIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 986,
+            "department_id": 23,
+            "city": "LIBANO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 67,
+            "department_id": 1,
+            "city": "LIBORINA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 756,
+            "department_id": 17,
+            "city": "LINARES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 601,
+            "department_id": 12,
+            "city": "LITORAL DEL BAJO SAN JUAN (SANTA GENOVEVA DE DOCORDO)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 604,
+            "department_id": 12,
+            "city": "LLORO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 398,
+            "department_id": 8,
+            "city": "LOPEZ (MICAY)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 456,
+            "department_id": 10,
+            "city": "LORICA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 757,
+            "department_id": 17,
+            "city": "LOS ANDES (SOTOMAYOR)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 457,
+            "department_id": 10,
+            "city": "LOS CORDOBAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 947,
+            "department_id": 22,
+            "city": "LOS PALMITOS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 806,
+            "department_id": 18,
+            "city": "LOS PATIOS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 899,
+            "department_id": 21,
+            "city": "LOS SANTOS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 807,
+            "department_id": 18,
+            "city": "LOURDES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 132,
+            "department_id": 2,
+            "city": "LURUACO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 266,
+            "department_id": 5,
+            "city": "MACANAL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 900,
+            "department_id": 21,
+            "city": "MACARAVITA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 68,
+            "department_id": 1,
+            "city": "MACEO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 527,
+            "department_id": 11,
+            "city": "MACHETA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 528,
+            "department_id": 11,
+            "city": "MADRID",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 186,
+            "department_id": 4,
+            "city": "MAGANGUE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 758,
+            "department_id": 17,
+            "city": "MAGUI (PAYAN)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 187,
+            "department_id": 4,
+            "city": "MAHATES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 661,
+            "department_id": 14,
+            "city": "MAICAO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 948,
+            "department_id": 22,
+            "city": "MAJAGUAL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 901,
+            "department_id": 21,
+            "city": "MALAGA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 133,
+            "department_id": 2,
+            "city": "MALAMBO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 759,
+            "department_id": 17,
+            "city": "MALLAMA (PIEDRANCHA)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 134,
+            "department_id": 2,
+            "city": "MANATI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 662,
+            "department_id": 14,
+            "city": "MANAURE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 436,
+            "department_id": 9,
+            "city": "MANAURE (BALCON DEL CESAR)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1063,
+            "department_id": 26,
+            "city": "MANI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 338,
+            "department_id": 6,
+            "city": "MANIZALES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 529,
+            "department_id": 11,
+            "city": "MANTA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 347,
+            "department_id": 6,
+            "city": "MANZANARES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 706,
+            "department_id": 16,
+            "city": "MAPIRIPAN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 188,
+            "department_id": 4,
+            "city": "MARGARITA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 189,
+            "department_id": 4,
+            "city": "MARIA LA BAJA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 69,
+            "department_id": 1,
+            "city": "MARINILLA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 267,
+            "department_id": 5,
+            "city": "MARIPI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 987,
+            "department_id": 23,
+            "city": "MARIQUITA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 348,
+            "department_id": 6,
+            "city": "MARMATO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 349,
+            "department_id": 6,
+            "city": "MARQUETALIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 845,
+            "department_id": 20,
+            "city": "MARSELLA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 350,
+            "department_id": 6,
+            "city": "MARULANDA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 902,
+            "department_id": 21,
+            "city": "MATANZA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1,
+            "department_id": 1,
+            "city": "MEDELLIN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 530,
+            "department_id": 11,
+            "city": "MEDINA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 605,
+            "department_id": 12,
+            "city": "MEDIO ATRATO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 606,
+            "department_id": 12,
+            "city": "MEDIO BAUDO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 988,
+            "department_id": 23,
+            "city": "MELGAR",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 399,
+            "department_id": 8,
+            "city": "MERCADERES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 707,
+            "department_id": 16,
+            "city": "MESETAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 373,
+            "department_id": 7,
+            "city": "MILAN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 268,
+            "department_id": 5,
+            "city": "MIRAFLORES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1114,
+            "department_id": 32,
+            "city": "MIRAFLORES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 400,
+            "department_id": 8,
+            "city": "MIRANDA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1097,
+            "department_id": 29,
+            "city": "MIRITI-PARANA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 846,
+            "department_id": 20,
+            "city": "MISTRATO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1115,
+            "department_id": 32,
+            "city": "MITU",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1077,
+            "department_id": 27,
+            "city": "MOCOA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 903,
+            "department_id": 21,
+            "city": "MOGOTES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 904,
+            "department_id": 21,
+            "city": "MOLAGAVITA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 458,
+            "department_id": 10,
+            "city": "MOMIL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 191,
+            "department_id": 4,
+            "city": "MOMPOS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 269,
+            "department_id": 5,
+            "city": "MONGUA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 270,
+            "department_id": 5,
+            "city": "MONGUI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 271,
+            "department_id": 5,
+            "city": "MONIQUIRA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 460,
+            "department_id": 10,
+            "city": "MOÑITOS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 70,
+            "department_id": 1,
+            "city": "MONTEBELLO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 190,
+            "department_id": 4,
+            "city": "MONTECRISTO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 459,
+            "department_id": 10,
+            "city": "MONTELIBANO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 833,
+            "department_id": 19,
+            "city": "MONTENEGRO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 446,
+            "department_id": 10,
+            "city": "MONTERIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1064,
+            "department_id": 26,
+            "city": "MONTERREY",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 401,
+            "department_id": 8,
+            "city": "MORALES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 192,
+            "department_id": 4,
+            "city": "MORALES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 374,
+            "department_id": 7,
+            "city": "MORELIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1110,
+            "department_id": 31,
+            "city": "MORICHAL (MORICHAL NUEVO)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 949,
+            "department_id": 22,
+            "city": "MORROA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 531,
+            "department_id": 11,
+            "city": "MOSQUERA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 760,
+            "department_id": 17,
+            "city": "MOSQUERA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 272,
+            "department_id": 5,
+            "city": "MOTAVITA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 989,
+            "department_id": 23,
+            "city": "MURILLO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 71,
+            "department_id": 1,
+            "city": "MURINDO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 72,
+            "department_id": 1,
+            "city": "MUTATA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 808,
+            "department_id": 18,
+            "city": "MUTISCUA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 273,
+            "department_id": 5,
+            "city": "MUZO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 73,
+            "department_id": 1,
+            "city": "NARIÑO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 532,
+            "department_id": 11,
+            "city": "NARIÑO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 634,
+            "department_id": 13,
+            "city": "NATAGA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 990,
+            "department_id": 23,
+            "city": "NATAGAIMA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 75,
+            "department_id": 1,
+            "city": "NECHI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 74,
+            "department_id": 1,
+            "city": "NECOCLI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 351,
+            "department_id": 6,
+            "city": "NEIRA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 616,
+            "department_id": 13,
+            "city": "NEIVA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 533,
+            "department_id": 11,
+            "city": "NEMOCON",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 534,
+            "department_id": 11,
+            "city": "NILO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 535,
+            "department_id": 11,
+            "city": "NIMAIMA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 274,
+            "department_id": 5,
+            "city": "NOBSA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 536,
+            "department_id": 11,
+            "city": "NOCAIMA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 352,
+            "department_id": 6,
+            "city": "NORCASIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 607,
+            "department_id": 12,
+            "city": "NOVITA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 275,
+            "department_id": 5,
+            "city": "NUEVO COLON",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1065,
+            "department_id": 26,
+            "city": "NUNCHIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 608,
+            "department_id": 12,
+            "city": "NUQUI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1034,
+            "department_id": 24,
+            "city": "OBANDO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 905,
+            "department_id": 21,
+            "city": "OCAMONTE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 809,
+            "department_id": 18,
+            "city": "OCAÑA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 906,
+            "department_id": 21,
+            "city": "OIBA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 276,
+            "department_id": 5,
+            "city": "OICATA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 76,
+            "department_id": 1,
+            "city": "OLAYA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 761,
+            "department_id": 17,
+            "city": "OLAYA HERRERA (BOCAS DE SATINGA)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 907,
+            "department_id": 21,
+            "city": "ONZAGA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 635,
+            "department_id": 13,
+            "city": "OPORAPA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1079,
+            "department_id": 27,
+            "city": "ORITO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1066,
+            "department_id": 26,
+            "city": "OROCUE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 991,
+            "department_id": 23,
+            "city": "ORTEGA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 762,
+            "department_id": 17,
+            "city": "OSPINA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 277,
+            "department_id": 5,
+            "city": "OTANCHE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 950,
+            "department_id": 22,
+            "city": "OVEJAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 278,
+            "department_id": 5,
+            "city": "PACHAVITA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 538,
+            "department_id": 11,
+            "city": "PACHO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1117,
+            "department_id": 32,
+            "city": "PACOA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 353,
+            "department_id": 6,
+            "city": "PACORA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 402,
+            "department_id": 8,
+            "city": "PADILLA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 279,
+            "department_id": 5,
+            "city": "PAEZ",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 403,
+            "department_id": 8,
+            "city": "PAEZ (BELALCAZAR)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 636,
+            "department_id": 13,
+            "city": "PAICOL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 437,
+            "department_id": 9,
+            "city": "PAILITAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 539,
+            "department_id": 11,
+            "city": "PAIME",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 280,
+            "department_id": 5,
+            "city": "PAIPA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 281,
+            "department_id": 5,
+            "city": "PAJARITO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 637,
+            "department_id": 13,
+            "city": "PALERMO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 638,
+            "department_id": 13,
+            "city": "PALESTINA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 354,
+            "department_id": 6,
+            "city": "PALESTINA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 908,
+            "department_id": 21,
+            "city": "PALMAR",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 135,
+            "department_id": 2,
+            "city": "PALMAR DE VARELA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 909,
+            "department_id": 21,
+            "city": "PALMAS DEL SOCORRO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1035,
+            "department_id": 24,
+            "city": "PALMIRA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 951,
+            "department_id": 22,
+            "city": "PALMITO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 992,
+            "department_id": 23,
+            "city": "PALOCABILDO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 810,
+            "department_id": 18,
+            "city": "PAMPLONA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 811,
+            "department_id": 18,
+            "city": "PAMPLONITA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1109,
+            "department_id": 30,
+            "city": "PANA PANA (CAMPO ALEGRE)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 540,
+            "department_id": 11,
+            "city": "PANDI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 282,
+            "department_id": 5,
+            "city": "PANQUEBA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1119,
+            "department_id": 32,
+            "city": "PAPUNAUA (MORICHAL)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 910,
+            "department_id": 21,
+            "city": "PARAMO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 541,
+            "department_id": 11,
+            "city": "PARATEBUENO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 542,
+            "department_id": 11,
+            "city": "PASCA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 722,
+            "department_id": 17,
+            "city": "PASTO (SAN JUAN DE PASTO)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 404,
+            "department_id": 8,
+            "city": "PATIA (EL BORDO)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 283,
+            "department_id": 5,
+            "city": "PAUNA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 284,
+            "department_id": 5,
+            "city": "PAYA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1067,
+            "department_id": 26,
+            "city": "PAZ DE ARIPORO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 285,
+            "department_id": 5,
+            "city": "PAZ DEL RIO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 680,
+            "department_id": 15,
+            "city": "PEDRAZA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 438,
+            "department_id": 9,
+            "city": "PELAYA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 77,
+            "department_id": 1,
+            "city": "PEÑOL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 355,
+            "department_id": 6,
+            "city": "PENSILVANIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 78,
+            "department_id": 1,
+            "city": "PEQUE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 837,
+            "department_id": 20,
+            "city": "PEREIRA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 286,
+            "department_id": 5,
+            "city": "PESCA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 405,
+            "department_id": 8,
+            "city": "PIAMONTE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 911,
+            "department_id": 21,
+            "city": "PIEDECUESTA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 993,
+            "department_id": 23,
+            "city": "PIEDRAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 406,
+            "department_id": 8,
+            "city": "PIENDAMO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 834,
+            "department_id": 19,
+            "city": "PIJAO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 681,
+            "department_id": 15,
+            "city": "PIJIÑO DEL CARMEN (PIJIÑO)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 912,
+            "department_id": 21,
+            "city": "PINCHOTE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 193,
+            "department_id": 4,
+            "city": "PINILLOS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 136,
+            "department_id": 2,
+            "city": "PIOJO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 287,
+            "department_id": 5,
+            "city": "PISBA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 639,
+            "department_id": 13,
+            "city": "PITAL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 640,
+            "department_id": 13,
+            "city": "PITALITO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 682,
+            "department_id": 15,
+            "city": "PIVIJAY",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 994,
+            "department_id": 23,
+            "city": "PLANADAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 461,
+            "department_id": 10,
+            "city": "PLANETA RICA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 683,
+            "department_id": 15,
+            "city": "PLATO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 764,
+            "department_id": 17,
+            "city": "POLICARPA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 137,
+            "department_id": 2,
+            "city": "POLO NUEVO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 138,
+            "department_id": 2,
+            "city": "PONEDERA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 381,
+            "department_id": 8,
+            "city": "POPAYAN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1068,
+            "department_id": 26,
+            "city": "PORE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 765,
+            "department_id": 17,
+            "city": "POTOSI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1036,
+            "department_id": 24,
+            "city": "PRADERA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 995,
+            "department_id": 23,
+            "city": "PRADO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 766,
+            "department_id": 17,
+            "city": "PROVIDENCIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1091,
+            "department_id": 29,
+            "city": "PROVIDENCIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 439,
+            "department_id": 9,
+            "city": "PUEBLO BELLO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 462,
+            "department_id": 10,
+            "city": "PUEBLO NUEVO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 847,
+            "department_id": 20,
+            "city": "PUEBLO RICO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 79,
+            "department_id": 1,
+            "city": "PUEBLORRICO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 684,
+            "department_id": 15,
+            "city": "PUEBLOVIEJO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 913,
+            "department_id": 21,
+            "city": "PUENTE NACIONAL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 767,
+            "department_id": 17,
+            "city": "PUERRES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1098,
+            "department_id": 29,
+            "city": "PUERTO ALEGRIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1099,
+            "department_id": 29,
+            "city": "PUERTO ARICA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1080,
+            "department_id": 27,
+            "city": "PUERTO ASIS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 80,
+            "department_id": 1,
+            "city": "PUERTO BERRIO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 288,
+            "department_id": 5,
+            "city": "PUERTO BOYACA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1081,
+            "department_id": 27,
+            "city": "PUERTO CAICEDO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1121,
+            "department_id": 33,
+            "city": "PUERTO CARREÑO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1106,
+            "department_id": 30,
+            "city": "PUERTO COLOMBIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 139,
+            "department_id": 2,
+            "city": "PUERTO COLOMBIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 711,
+            "department_id": 16,
+            "city": "PUERTO CONCORDIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 463,
+            "department_id": 10,
+            "city": "PUERTO ESCONDIDO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 712,
+            "department_id": 16,
+            "city": "PUERTO GAITAN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1082,
+            "department_id": 27,
+            "city": "PUERTO GUZMAN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1103,
+            "department_id": 30,
+            "city": "PUERTO INIRIDA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1083,
+            "department_id": 27,
+            "city": "PUERTO LEGUIZAMO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 464,
+            "department_id": 10,
+            "city": "PUERTO LIBERTADOR",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 714,
+            "department_id": 16,
+            "city": "PUERTO LLERAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 713,
+            "department_id": 16,
+            "city": "PUERTO LOPEZ",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 81,
+            "department_id": 1,
+            "city": "PUERTO NARE (LA MAGDALENA)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1100,
+            "department_id": 29,
+            "city": "PUERTO NARIÑO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 914,
+            "department_id": 21,
+            "city": "PUERTO PARRA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 715,
+            "department_id": 16,
+            "city": "PUERTO RICO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 375,
+            "department_id": 7,
+            "city": "PUERTO RICO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1055,
+            "department_id": 25,
+            "city": "PUERTO RONDON",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 543,
+            "department_id": 11,
+            "city": "PUERTO SALGAR",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1101,
+            "department_id": 29,
+            "city": "PUERTO SANTANDER",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 812,
+            "department_id": 18,
+            "city": "PUERTO SANTANDER",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 407,
+            "department_id": 8,
+            "city": "PUERTO TEJADA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 82,
+            "department_id": 1,
+            "city": "PUERTO TRIUNFO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 915,
+            "department_id": 21,
+            "city": "PUERTO WILCHES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 544,
+            "department_id": 11,
+            "city": "PULI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 768,
+            "department_id": 17,
+            "city": "PUPIALES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 408,
+            "department_id": 8,
+            "city": "PURACE (COCONUCO)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 996,
+            "department_id": 23,
+            "city": "PURIFICACION",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 465,
+            "department_id": 10,
+            "city": "PURISIMA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 545,
+            "department_id": 11,
+            "city": "QUEBRADANEGRA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 546,
+            "department_id": 11,
+            "city": "QUETAME",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 590,
+            "department_id": 12,
+            "city": "QUIBDO (SAN FRANCISCO DE QUIBDO)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 835,
+            "department_id": 19,
+            "city": "QUIMBAYA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 848,
+            "department_id": 20,
+            "city": "QUINCHIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 289,
+            "department_id": 5,
+            "city": "QUIPAMA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 547,
+            "department_id": 11,
+            "city": "QUIPILE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 813,
+            "department_id": 18,
+            "city": "RAGONVALIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 290,
+            "department_id": 5,
+            "city": "RAMIRIQUI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 291,
+            "department_id": 5,
+            "city": "RAQUIRA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1069,
+            "department_id": 26,
+            "city": "RECETOR",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 194,
+            "department_id": 4,
+            "city": "REGIDOR",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 83,
+            "department_id": 1,
+            "city": "REMEDIOS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 685,
+            "department_id": 15,
+            "city": "REMOLINO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 140,
+            "department_id": 2,
+            "city": "REPELON",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 716,
+            "department_id": 16,
+            "city": "RESTREPO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1037,
+            "department_id": 24,
+            "city": "RESTREPO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 84,
+            "department_id": 1,
+            "city": "RETIRO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 549,
+            "department_id": 11,
+            "city": "RICAURTE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 769,
+            "department_id": 17,
+            "city": "RICAURTE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 440,
+            "department_id": 9,
+            "city": "RIO DE ORO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 195,
+            "department_id": 4,
+            "city": "RIO VIEJO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 997,
+            "department_id": 23,
+            "city": "RIOBLANCO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1038,
+            "department_id": 24,
+            "city": "RIOFRIO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 653,
+            "department_id": 14,
+            "city": "RIOHACHA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 916,
+            "department_id": 21,
+            "city": "RIONEGRO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 85,
+            "department_id": 1,
+            "city": "RIONEGRO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 609,
+            "department_id": 12,
+            "city": "RIOQUITO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 610,
+            "department_id": 12,
+            "city": "RIOSUCIO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 356,
+            "department_id": 6,
+            "city": "RIOSUCIO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 357,
+            "department_id": 6,
+            "city": "RISARALDA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 641,
+            "department_id": 13,
+            "city": "RIVERA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 770,
+            "department_id": 17,
+            "city": "ROBERTO PAYAN (SAN JOSE)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1039,
+            "department_id": 24,
+            "city": "ROLDANILLO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 998,
+            "department_id": 23,
+            "city": "RONCESVALLES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 292,
+            "department_id": 5,
+            "city": "RONDON",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 409,
+            "department_id": 8,
+            "city": "ROSAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 999,
+            "department_id": 23,
+            "city": "ROVIRA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 917,
+            "department_id": 21,
+            "city": "SABANA DE TORRES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 141,
+            "department_id": 2,
+            "city": "SABANAGRANDE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 86,
+            "department_id": 1,
+            "city": "SABANALARGA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 142,
+            "department_id": 2,
+            "city": "SABANALARGA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1070,
+            "department_id": 26,
+            "city": "SABANALARGA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 686,
+            "department_id": 15,
+            "city": "SABANAS DE SAN ANGEL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 87,
+            "department_id": 1,
+            "city": "SABANETA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 293,
+            "department_id": 5,
+            "city": "SABOYA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1071,
+            "department_id": 26,
+            "city": "SACAMA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 294,
+            "department_id": 5,
+            "city": "SACHICA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 466,
+            "department_id": 10,
+            "city": "SAHAGUN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 642,
+            "department_id": 13,
+            "city": "SALADOBLANCO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 687,
+            "department_id": 15,
+            "city": "SALAMINA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 358,
+            "department_id": 6,
+            "city": "SALAMINA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 814,
+            "department_id": 18,
+            "city": "SALAZAR",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1000,
+            "department_id": 23,
+            "city": "SALDAÑA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 836,
+            "department_id": 20,
+            "city": "SALENTO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 88,
+            "department_id": 1,
+            "city": "SALGAR",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 295,
+            "department_id": 5,
+            "city": "SAMACA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 359,
+            "department_id": 6,
+            "city": "SAMANA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 771,
+            "department_id": 17,
+            "city": "SAMANIEGO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 952,
+            "department_id": 22,
+            "city": "SAMPUES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 643,
+            "department_id": 13,
+            "city": "SAN AGUSTIN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 442,
+            "department_id": 9,
+            "city": "SAN ALBERTO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1090,
+            "department_id": 28,
+            "city": "SAN ANDRES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 89,
+            "department_id": 1,
+            "city": "SAN ANDRES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 918,
+            "department_id": 21,
+            "city": "SAN ANDRES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 467,
+            "department_id": 10,
+            "city": "SAN ANDRES SOTAVENTO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 468,
+            "department_id": 10,
+            "city": "SAN ANTERO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1001,
+            "department_id": 23,
+            "city": "SAN ANTONIO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 550,
+            "department_id": 11,
+            "city": "SAN ANTONIO DEL TEQUENDAMA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 919,
+            "department_id": 21,
+            "city": "SAN BENITO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 953,
+            "department_id": 22,
+            "city": "SAN BENITO ABAD",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 773,
+            "department_id": 17,
+            "city": "SAN BERNARDO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 551,
+            "department_id": 11,
+            "city": "SAN BERNARDO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 469,
+            "department_id": 10,
+            "city": "SAN BERNARDO DEL VIENTO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 815,
+            "department_id": 18,
+            "city": "SAN CALIXTO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 470,
+            "department_id": 10,
+            "city": "SAN CARLOS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 90,
+            "department_id": 1,
+            "city": "SAN CARLOS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 717,
+            "department_id": 16,
+            "city": "SAN CARLOS DE GUAROA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 552,
+            "department_id": 11,
+            "city": "SAN CAYETANO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 816,
+            "department_id": 18,
+            "city": "SAN CAYETANO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 196,
+            "department_id": 4,
+            "city": "SAN CRISTOBAL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 443,
+            "department_id": 9,
+            "city": "SAN DIEGO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 296,
+            "department_id": 5,
+            "city": "SAN EDUARDO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 197,
+            "department_id": 4,
+            "city": "SAN ESTANISLAO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1105,
+            "department_id": 30,
+            "city": "SAN FELIPE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 198,
+            "department_id": 4,
+            "city": "SAN FERNANDO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 91,
+            "department_id": 1,
+            "city": "SAN FRANCISCO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1085,
+            "department_id": 27,
+            "city": "SAN FRANCISCO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 553,
+            "department_id": 11,
+            "city": "SAN FRANCISCO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 920,
+            "department_id": 21,
+            "city": "SAN GIL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 199,
+            "department_id": 4,
+            "city": "SAN JACINTO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 200,
+            "department_id": 4,
+            "city": "SAN JACINTO DEL CAUCA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 92,
+            "department_id": 1,
+            "city": "SAN JERONIMO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 921,
+            "department_id": 21,
+            "city": "SAN JOAQUIN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 360,
+            "department_id": 6,
+            "city": "SAN JOSE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 376,
+            "department_id": 7,
+            "city": "SAN JOSE DE FRAGUA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 93,
+            "department_id": 1,
+            "city": "SAN JOSE DE LA MONTAÑA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 922,
+            "department_id": 21,
+            "city": "SAN JOSE DE MIRANDA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1125,
+            "department_id": 33,
+            "city": "SAN JOSE DE OCUNE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 297,
+            "department_id": 5,
+            "city": "SAN JOSE DE PARE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1111,
+            "department_id": 31,
+            "city": "SAN JOSE DEL GUAVIARE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 611,
+            "department_id": 12,
+            "city": "SAN JOSE DEL PALMAR",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 718,
+            "department_id": 16,
+            "city": "SAN JUAN DE ARAMA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 954,
+            "department_id": 22,
+            "city": "SAN JUAN DE BETULIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 554,
+            "department_id": 11,
+            "city": "SAN JUAN DE RIOSECO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 94,
+            "department_id": 1,
+            "city": "SAN JUAN DE URABA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 663,
+            "department_id": 14,
+            "city": "SAN JUAN DEL CESAR",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 201,
+            "department_id": 4,
+            "city": "SAN JUAN NEPOMUCENO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 719,
+            "department_id": 16,
+            "city": "SAN JUANITO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 774,
+            "department_id": 17,
+            "city": "SAN LORENZO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1002,
+            "department_id": 23,
+            "city": "SAN LUIS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 95,
+            "department_id": 1,
+            "city": "SAN LUIS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 698,
+            "department_id": 16,
+            "city": "SAN LUIS DE CUBARRAL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 298,
+            "department_id": 5,
+            "city": "SAN LUIS DE GACENO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1072,
+            "department_id": 26,
+            "city": "SAN LUIS DE PALENQUE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 955,
+            "department_id": 22,
+            "city": "SAN MARCOS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 444,
+            "department_id": 9,
+            "city": "SAN MARTIN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 720,
+            "department_id": 16,
+            "city": "SAN MARTIN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 202,
+            "department_id": 4,
+            "city": "SAN MARTIN DE LOBA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 299,
+            "department_id": 5,
+            "city": "SAN MATEO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 923,
+            "department_id": 21,
+            "city": "SAN MIGUEL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1086,
+            "department_id": 27,
+            "city": "SAN MIGUEL (LA DORADA)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 300,
+            "department_id": 5,
+            "city": "SAN MIGUEL DE SEMA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 956,
+            "department_id": 22,
+            "city": "SAN ONOFRE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 775,
+            "department_id": 17,
+            "city": "SAN PABLO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 203,
+            "department_id": 4,
+            "city": "SAN PABLO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 301,
+            "department_id": 5,
+            "city": "SAN PABLO DE BORBUR",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 957,
+            "department_id": 22,
+            "city": "SAN PEDRO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1040,
+            "department_id": 24,
+            "city": "SAN PEDRO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 96,
+            "department_id": 1,
+            "city": "SAN PEDRO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 776,
+            "department_id": 17,
+            "city": "SAN PEDRO DE CARTAGO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 97,
+            "department_id": 1,
+            "city": "SAN PEDRO DE URABA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 471,
+            "department_id": 10,
+            "city": "SAN PELAYO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 98,
+            "department_id": 1,
+            "city": "SAN RAFAEL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 99,
+            "department_id": 1,
+            "city": "SAN ROQUE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 410,
+            "department_id": 8,
+            "city": "SAN SEBASTIAN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 688,
+            "department_id": 15,
+            "city": "SAN SEBASTIAN DE BUENAVISTA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 100,
+            "department_id": 1,
+            "city": "SAN VICENTE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 924,
+            "department_id": 21,
+            "city": "SAN VICENTE DE CHUCURI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 377,
+            "department_id": 7,
+            "city": "SAN VICENTE DEL CAGUAN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 689,
+            "department_id": 15,
+            "city": "SAN ZENON",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 772,
+            "department_id": 17,
+            "city": "SANDONA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 690,
+            "department_id": 15,
+            "city": "SANTA ANA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 925,
+            "department_id": 21,
+            "city": "SANTA BARBARA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 101,
+            "department_id": 1,
+            "city": "SANTA BARBARA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 777,
+            "department_id": 17,
+            "city": "SANTA BARBARA (ISCUANDE)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 204,
+            "department_id": 4,
+            "city": "SANTA CATALINA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 778,
+            "department_id": 17,
+            "city": "SANTA CRUZ (GUACHAVES)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 926,
+            "department_id": 21,
+            "city": "SANTA HELENA DEL OPON",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1003,
+            "department_id": 23,
+            "city": "SANTA ISABEL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 143,
+            "department_id": 2,
+            "city": "SANTA LUCIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 644,
+            "department_id": 13,
+            "city": "SANTA MARIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 303,
+            "department_id": 5,
+            "city": "SANTA MARIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 667,
+            "department_id": 15,
+            "city": "SANTA MARTA (DISTRITO TURISTICO CULTURAL E HISTORICO DE SANTA MARTA)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1123,
+            "department_id": 33,
+            "city": "SANTA RITA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 412,
+            "department_id": 8,
+            "city": "SANTA ROSA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 205,
+            "department_id": 4,
+            "city": "SANTA ROSA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 849,
+            "department_id": 20,
+            "city": "SANTA ROSA DE CABAL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 102,
+            "department_id": 1,
+            "city": "SANTA ROSA DE OSOS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 304,
+            "department_id": 5,
+            "city": "SANTA ROSA DE VITERBO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 206,
+            "department_id": 4,
+            "city": "SANTA ROSA DEL SUR",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1124,
+            "department_id": 33,
+            "city": "SANTA ROSALIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 305,
+            "department_id": 5,
+            "city": "SANTA SOFIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 302,
+            "department_id": 5,
+            "city": "SANTANA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 411,
+            "department_id": 8,
+            "city": "SANTANDER DE QUILICHAO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1087,
+            "department_id": 27,
+            "city": "SANTIAGO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 817,
+            "department_id": 18,
+            "city": "SANTIAGO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 103,
+            "department_id": 1,
+            "city": "SANTO DOMINGO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 144,
+            "department_id": 2,
+            "city": "SANTO TOMAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 104,
+            "department_id": 1,
+            "city": "SANTUARIO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 850,
+            "department_id": 21,
+            "city": "SANTUARIO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 779,
+            "department_id": 17,
+            "city": "SAPUYES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1056,
+            "department_id": 25,
+            "city": "SARAVENA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 818,
+            "department_id": 18,
+            "city": "SARDINATA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 555,
+            "department_id": 11,
+            "city": "SASAIMA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 306,
+            "department_id": 5,
+            "city": "SATIVANORTE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 307,
+            "department_id": 5,
+            "city": "SATIVASUR",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 105,
+            "department_id": 1,
+            "city": "SEGOVIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 556,
+            "department_id": 11,
+            "city": "SESQUILE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1041,
+            "department_id": 24,
+            "city": "SEVILLA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 308,
+            "department_id": 5,
+            "city": "SIACHOQUE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 557,
+            "department_id": 11,
+            "city": "SIBATE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1084,
+            "department_id": 27,
+            "city": "SIBUNDOY",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 819,
+            "department_id": 18,
+            "city": "SILOS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 558,
+            "department_id": 11,
+            "city": "SILVANIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 413,
+            "department_id": 8,
+            "city": "SILVIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 927,
+            "department_id": 21,
+            "city": "SIMACOTA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 559,
+            "department_id": 11,
+            "city": "SIMIJACA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 207,
+            "department_id": 4,
+            "city": "SIMITI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 958,
+            "department_id": 22,
+            "city": "SINCE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 938,
+            "department_id": 22,
+            "city": "SINCELEJO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 612,
+            "department_id": 12,
+            "city": "SIPI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 691,
+            "department_id": 15,
+            "city": "SITIONUEVO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 560,
+            "department_id": 11,
+            "city": "SOACHA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 309,
+            "department_id": 5,
+            "city": "SOATA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 311,
+            "department_id": 5,
+            "city": "SOCHA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 928,
+            "department_id": 21,
+            "city": "SOCORRO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 310,
+            "department_id": 5,
+            "city": "SOCOTA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 312,
+            "department_id": 5,
+            "city": "SOGAMOSO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 378,
+            "department_id": 7,
+            "city": "SOLANO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 145,
+            "department_id": 2,
+            "city": "SOLEDAD",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 379,
+            "department_id": 7,
+            "city": "SOLITA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 313,
+            "department_id": 5,
+            "city": "SOMONDOCO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 106,
+            "department_id": 1,
+            "city": "SONSON",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 107,
+            "department_id": 1,
+            "city": "SOPETRAN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 208,
+            "department_id": 4,
+            "city": "SOPLAVIENTO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 561,
+            "department_id": 11,
+            "city": "SOPO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 314,
+            "department_id": 5,
+            "city": "SORA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 316,
+            "department_id": 5,
+            "city": "SORACA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 315,
+            "department_id": 5,
+            "city": "SOTAQUIRA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 414,
+            "department_id": 8,
+            "city": "SOTARA (PAISPAMBA)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 929,
+            "department_id": 21,
+            "city": "SUAITA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 146,
+            "department_id": 2,
+            "city": "SUAN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1004,
+            "department_id": 23,
+            "city": "SUAREZ",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 415,
+            "department_id": 8,
+            "city": "SUAREZ",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 645,
+            "department_id": 13,
+            "city": "SUAZA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 562,
+            "department_id": 11,
+            "city": "SUBACHOQUE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 930,
+            "department_id": 21,
+            "city": "SUCRE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 959,
+            "department_id": 22,
+            "city": "SUCRE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 563,
+            "department_id": 11,
+            "city": "SUESCA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 564,
+            "department_id": 11,
+            "city": "SUPATA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 361,
+            "department_id": 6,
+            "city": "SUPIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 931,
+            "department_id": 21,
+            "city": "SURATA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 565,
+            "department_id": 11,
+            "city": "SUSA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 317,
+            "department_id": 5,
+            "city": "SUSACON",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 318,
+            "department_id": 5,
+            "city": "SUTAMARCHAN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 566,
+            "department_id": 11,
+            "city": "SUTATAUSA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 319,
+            "department_id": 5,
+            "city": "SUTATENZA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 567,
+            "department_id": 11,
+            "city": "TABIO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 613,
+            "department_id": 12,
+            "city": "TADO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 209,
+            "department_id": 4,
+            "city": "TALAIGUA NUEVO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 445,
+            "department_id": 10,
+            "city": "TAMALAMEQUE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1073,
+            "department_id": 26,
+            "city": "TAMARA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1057,
+            "department_id": 26,
+            "city": "TAME",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 108,
+            "department_id": 1,
+            "city": "TAMESIS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 780,
+            "department_id": 17,
+            "city": "TAMINANGO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 781,
+            "department_id": 17,
+            "city": "TANGUA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1118,
+            "department_id": 32,
+            "city": "TARAIRA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1102,
+            "department_id": 30,
+            "city": "TARAPACA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 109,
+            "department_id": 1,
+            "city": "TARAZA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 646,
+            "department_id": 13,
+            "city": "TARQUI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 110,
+            "department_id": 1,
+            "city": "TARSO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 320,
+            "department_id": 5,
+            "city": "TASCO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1074,
+            "department_id": 26,
+            "city": "TAURAMENA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 568,
+            "department_id": 11,
+            "city": "TAUSA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 648,
+            "department_id": 13,
+            "city": "TELLO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 569,
+            "department_id": 11,
+            "city": "TENA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 692,
+            "department_id": 16,
+            "city": "TENERIFE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 570,
+            "department_id": 11,
+            "city": "TENJO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 321,
+            "department_id": 5,
+            "city": "TENZA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 820,
+            "department_id": 18,
+            "city": "TEORAMA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 649,
+            "department_id": 13,
+            "city": "TERUEL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 647,
+            "department_id": 13,
+            "city": "TESALIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 571,
+            "department_id": 11,
+            "city": "TIBACUY",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 322,
+            "department_id": 5,
+            "city": "TIBANA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 323,
+            "department_id": 5,
+            "city": "TIBASOSA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 572,
+            "department_id": 11,
+            "city": "TIBIRITA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 821,
+            "department_id": 18,
+            "city": "TIBU",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 472,
+            "department_id": 10,
+            "city": "TIERRALTA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 650,
+            "department_id": 13,
+            "city": "TIMANA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 416,
+            "department_id": 8,
+            "city": "TIMBIO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 417,
+            "department_id": 8,
+            "city": "TIMBIQUI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 324,
+            "department_id": 5,
+            "city": "TINJACA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 325,
+            "department_id": 5,
+            "city": "TIPACOQUE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 210,
+            "department_id": 4,
+            "city": "TIQUISIO (PUERTO RICO)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 111,
+            "department_id": 1,
+            "city": "TITIRIBI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 326,
+            "department_id": 5,
+            "city": "TOCA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 573,
+            "department_id": 11,
+            "city": "TOCAIMA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 574,
+            "department_id": 11,
+            "city": "TOCANCIPA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 327,
+            "department_id": 5,
+            "city": "TOGUI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 822,
+            "department_id": 18,
+            "city": "TOLEDO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 112,
+            "department_id": 1,
+            "city": "TOLEDO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 960,
+            "department_id": 22,
+            "city": "TOLU",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 961,
+            "department_id": 23,
+            "city": "TOLUVIEJO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 932,
+            "department_id": 21,
+            "city": "TONA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 328,
+            "department_id": 5,
+            "city": "TOPAGA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 575,
+            "department_id": 11,
+            "city": "TOPAIPI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 418,
+            "department_id": 8,
+            "city": "TORIBIO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1042,
+            "department_id": 24,
+            "city": "TORO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 329,
+            "department_id": 5,
+            "city": "TOTA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 419,
+            "department_id": 8,
+            "city": "TOTORO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1075,
+            "department_id": 26,
+            "city": "TRINIDAD",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1043,
+            "department_id": 24,
+            "city": "TRUJILLO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 147,
+            "department_id": 2,
+            "city": "TUBARA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1044,
+            "department_id": 24,
+            "city": "TULUA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 782,
+            "department_id": 17,
+            "city": "TUMACO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 215,
+            "department_id": 5,
+            "city": "TUNJA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 330,
+            "department_id": 5,
+            "city": "TUNUNGUA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 783,
+            "department_id": 17,
+            "city": "TUQUERRES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 211,
+            "department_id": 4,
+            "city": "TURBACO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 212,
+            "department_id": 4,
+            "city": "TURBANA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 113,
+            "department_id": 1,
+            "city": "TURBO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 331,
+            "department_id": 5,
+            "city": "TURMEQUE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 332,
+            "department_id": 5,
+            "city": "TUTA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 333,
+            "department_id": 5,
+            "city": "TUTASA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 576,
+            "department_id": 11,
+            "city": "UBALA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 577,
+            "department_id": 11,
+            "city": "UBAQUE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 578,
+            "department_id": 11,
+            "city": "UBATE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1045,
+            "department_id": 24,
+            "city": "ULLOA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 334,
+            "department_id": 5,
+            "city": "UMBITA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 579,
+            "department_id": 11,
+            "city": "UNE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 614,
+            "department_id": 12,
+            "city": "UNGUIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 615,
+            "department_id": 13,
+            "city": "UNION PANAMERICANA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 114,
+            "department_id": 1,
+            "city": "URAMITA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 664,
+            "department_id": 14,
+            "city": "URIBIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 115,
+            "department_id": 1,
+            "city": "URRAO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 665,
+            "department_id": 14,
+            "city": "URUMITA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 148,
+            "department_id": 3,
+            "city": "USIACURI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 580,
+            "department_id": 11,
+            "city": "UTICA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 116,
+            "department_id": 1,
+            "city": "VALDIVIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 473,
+            "department_id": 11,
+            "city": "VALENCIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1005,
+            "department_id": 23,
+            "city": "VALLE DE SAN JUAN",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 933,
+            "department_id": 21,
+            "city": "VALLE SAN JOSE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 421,
+            "department_id": 9,
+            "city": "VALLEDUPAR",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 380,
+            "department_id": 8,
+            "city": "VALPARAISO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 117,
+            "department_id": 1,
+            "city": "VALPARAISO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 118,
+            "department_id": 1,
+            "city": "VEGACHI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 934,
+            "department_id": 21,
+            "city": "VELEZ",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1006,
+            "department_id": 23,
+            "city": "VENADILLO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 119,
+            "department_id": 1,
+            "city": "VENECIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 537,
+            "department_id": 11,
+            "city": "VENECIA (OSPINA PEREZ)",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 335,
+            "department_id": 5,
+            "city": "VENTAQUEMADA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 581,
+            "department_id": 11,
+            "city": "VERGARA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1046,
+            "department_id": 24,
+            "city": "VERSALLES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 935,
+            "department_id": 21,
+            "city": "VETAS",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 582,
+            "department_id": 11,
+            "city": "VIANI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 362,
+            "department_id": 6,
+            "city": "VICTORIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 120,
+            "department_id": 1,
+            "city": "VIGIA DEL FUERTE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1047,
+            "department_id": 24,
+            "city": "VIJES",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 265,
+            "department_id": 5,
+            "city": "VILLA DE LEIVA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 824,
+            "department_id": 19,
+            "city": "VILLA DEL ROSARIO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 823,
+            "department_id": 18,
+            "city": "VILLACARO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1089,
+            "department_id": 28,
+            "city": "VILLAGARZON",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 583,
+            "department_id": 11,
+            "city": "VILLAGOMEZ",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1007,
+            "department_id": 23,
+            "city": "VILLAHERMOSA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 363,
+            "department_id": 6,
+            "city": "VILLAMARIA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 666,
+            "department_id": 15,
+            "city": "VILLANUEVA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 213,
+            "department_id": 4,
+            "city": "VILLANUEVA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1076,
+            "department_id": 27,
+            "city": "VILLANUEVA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 936,
+            "department_id": 21,
+            "city": "VILLANUEVA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 584,
+            "department_id": 11,
+            "city": "VILLAPINZON",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 420,
+            "department_id": 9,
+            "city": "VILLARICA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1008,
+            "department_id": 24,
+            "city": "VILLARRICA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 693,
+            "department_id": 16,
+            "city": "VILLAVICENCIO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 651,
+            "department_id": 13,
+            "city": "VILLAVIEJA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 585,
+            "department_id": 11,
+            "city": "VILLETA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 586,
+            "department_id": 11,
+            "city": "VIOTA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 336,
+            "department_id": 5,
+            "city": "VIRACACHA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 721,
+            "department_id": 17,
+            "city": "VISTAHERMOSA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 364,
+            "department_id": 7,
+            "city": "VITERBO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 587,
+            "department_id": 11,
+            "city": "YACOPI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 784,
+            "department_id": 18,
+            "city": "YACUANQUER",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 652,
+            "department_id": 14,
+            "city": "YAGUARA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 121,
+            "department_id": 1,
+            "city": "YALI",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 122,
+            "department_id": 1,
+            "city": "YARUMAL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1120,
+            "department_id": 33,
+            "city": "YAVARATE",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 123,
+            "department_id": 1,
+            "city": "YOLOMBO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 124,
+            "department_id": 1,
+            "city": "YONDO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1058,
+            "department_id": 26,
+            "city": "YOPAL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1048,
+            "department_id": 24,
+            "city": "YOTOCO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1049,
+            "department_id": 24,
+            "city": "YUMBO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 214,
+            "department_id": 5,
+            "city": "ZAMBRANO",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 937,
+            "department_id": 22,
+            "city": "ZAPATOCA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 125,
+            "department_id": 2,
+            "city": "ZARAGOZA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 1050,
+            "department_id": 25,
+            "city": "ZARZAL",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 337,
+            "department_id": 6,
+            "city": "ZETAQUIRA",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 588,
+            "department_id": 11,
+            "city": "ZIPACON",
+            "latitude": "",
+            "longitude": ""
+        },
+        {
+            "id": 589,
+            "department_id": 12,
+            "city": "ZIPAQUIRA",
+            "latitude": "",
+            "longitude": ""
+        }
+    ],
+    "deparments": [
+        {
+            "id": 29,
+            "department": "Amazonas"
+        },
+        {
+            "id": 1,
+            "department": "Antioquia"
+        },
+        {
+            "id": 25,
+            "department": "Arauca"
+        },
+        {
+            "id": 2,
+            "department": "Atlántico"
+        },
+        {
+            "id": 3,
+            "department": "Bogotá D.C"
+        },
+        {
+            "id": 4,
+            "department": "Bolivar"
+        },
+        {
+            "id": 5,
+            "department": "Boyacá"
+        },
+        {
+            "id": 6,
+            "department": "Caldas"
+        },
+        {
+            "id": 7,
+            "department": "Caquetá"
+        },
+        {
+            "id": 26,
+            "department": "Casanare"
+        },
+        {
+            "id": 8,
+            "department": "Cauca"
+        },
+        {
+            "id": 9,
+            "department": "Cesar"
+        },
+        {
+            "id": 12,
+            "department": "Chocó"
+        },
+        {
+            "id": 10,
+            "department": "Córdoba"
+        },
+        {
+            "id": 11,
+            "department": "Cundinamarca"
+        },
+        {
+            "id": 30,
+            "department": "Guainía"
+        },
+        {
+            "id": 31,
+            "department": "Guaviare"
+        },
+        {
+            "id": 13,
+            "department": "Huila"
+        },
+        {
+            "id": 14,
+            "department": "La Guajira"
+        },
+        {
+            "id": 15,
+            "department": "Magdalena"
+        },
+        {
+            "id": 16,
+            "department": "Meta"
+        },
+        {
+            "id": 17,
+            "department": "Nariño"
+        },
+        {
+            "id": 18,
+            "department": "Norte de Santander"
+        },
+        {
+            "id": 27,
+            "department": "Putumayo"
+        },
+        {
+            "id": 19,
+            "department": "Quindio"
+        },
+        {
+            "id": 20,
+            "department": "Risaralda"
+        },
+        {
+            "id": 28,
+            "department": "San Andrés"
+        },
+        {
+            "id": 21,
+            "department": "Santander"
+        },
+        {
+            "id": 22,
+            "department": "Sucre"
+        },
+        {
+            "id": 23,
+            "department": "Tolima"
+        },
+        {
+            "id": 24,
+            "department": "Valle"
+        },
+        {
+            "id": 32,
+            "department": "Vaupés"
+        },
+        {
+            "id": 33,
+            "department": "Vichada"
+        }
+    ]
+}
