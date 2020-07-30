@@ -6603,135 +6603,135 @@
     ],
     "departments": [
         {
-            "id": "5",
+            "id": 5,
             "department": "Antioquia"
         },
         {
-            "id": "8",
+            "id": 8,
             "department": "Atlántico"
         },
         {
-            "id": "11",
+            "id": 11,
             "department": "Bogotá D.C"
         },
         {
-            "id": "13",
+            "id": 13,
             "department": "Bolivar"
         },
         {
-            "id": "15",
+            "id": 15,
             "department": "Boyacá"
         },
         {
-            "id": "17",
+            "id": 17,
             "department": "Caldas"
         },
         {
-            "id": "18",
+            "id": 18,
             "department": "Caquetá"
         },
         {
-            "id": "19",
+            "id": 19,
             "department": "Cauca"
         },
         {
-            "id": "20",
+            "id": 20,
             "department": "Cesar"
         },
         {
-            "id": "23",
+            "id": 23,
             "department": "Córdoba"
         },
         {
-            "id": "25",
+            "id": 25,
             "department": "Cundinamarca"
         },
         {
-            "id": "27",
+            "id": 27,
             "department": "Chocó"
         },
         {
-            "id": "41",
+            "id": 41,
             "department": "Huila"
         },
         {
-            "id": "44",
+            "id": 44,
             "department": "La Guajira"
         },
         {
-            "id": "47",
+            "id": 47,
             "department": "Magdalena"
         },
         {
-            "id": "50",
+            "id": 50,
             "department": "Meta"
         },
         {
-            "id": "52",
+            "id": 52,
             "department": "Nariño"
         },
         {
-            "id": "54",
+            "id": 54,
             "department": "Norte de Santander"
         },
         {
-            "id": "63",
+            "id": 63,
             "department": "Quindio"
         },
         {
-            "id": "66",
+            "id": 66,
             "department": "Risaralda"
         },
         {
-            "id": "68",
+            "id": 68,
             "department": "Santander"
         },
         {
-            "id": "70",
+            "id": 70,
             "department": "Sucre"
         },
         {
-            "id": "73",
+            "id": 73,
             "department": "Tolima"
         },
         {
-            "id": "76",
+            "id": 76,
             "department": "Valle"
         },
         {
-            "id": "81",
+            "id": 81,
             "department": "Arauca"
         },
         {
-            "id": "85",
+            "id": 85,
             "department": "Casanare"
         },
         {
-            "id": "86",
+            "id": 86,
             "department": "Putumayo"
         },
         {
-            "id": "88",
+            "id": 88,
             "department": "San Andrés y Providencia"
         },
         {
-            "id": "91",
+            "id": 91,
             "department": "Amazonas"
         },
         {
-            "id": "94",
+            "id": 94,
             "department": "Guainía"
         },
         {
-            "id": "95",
+            "id": 95,
             "department": "Guaviare"
         },
         {
-            "id": "97",
+            "id": 97,
             "department": "Vaupés"
         },
         {
-            "id": "99",
+            "id": 99,
             "department": "Vichada"
         }
     ]
